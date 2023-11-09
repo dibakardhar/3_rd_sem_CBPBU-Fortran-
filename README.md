@@ -1,0 +1,3 @@
+# 3_rd_sem_CBPBU-Fortran-
+My xm notes for xm 3rd sem_CBPBU on Fortran
+See the qUESTION_practical.pdf file then Question 5 to Question 12 are solved here...
